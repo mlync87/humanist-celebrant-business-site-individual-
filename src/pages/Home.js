@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import BannerImage from "../assets/foto-pettine-IfjHaIoAoqE-unsplash.jpg";
 import "../styles/Home.css";
-
+// configure new banner image
 function Home() {
   return (
     <div className="home">
