@@ -14,7 +14,7 @@ export const ServicesList = [
     price: "Prices available on request",
   },
   {
-    name: "Memorial Ceremonies",
+    name: "Vow Renewals",
     image: Memorial,
     price: "Prices available on request",
   },
