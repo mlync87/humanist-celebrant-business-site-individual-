@@ -5,11 +5,8 @@ import "../styles/Home.css";
 // configure new banner image
 function Home() {
   return (
-    <div className="home">
-      <div
-        className="headerContainer"
-        style={{ backgroundImage: `url(${BannerImage})` }}
-      >
+    <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
+      <div className="headerContainer">
         <h1> Méla Gra Humanist Celebrant Services </h1>
         <p> Fully customisable services to suit all styles</p>
         <Link to="/menu">
