@@ -32,3 +32,8 @@ function Contact() {
 }
 
 export default Contact;
+
+// possible solutions to page issues
+// renaming all tags
+// re typing all source code
+// alternate docs
