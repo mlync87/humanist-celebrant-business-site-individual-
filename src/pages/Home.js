@@ -4,6 +4,7 @@ import BannerImage from "../assets/foto-pettine-IfjHaIoAoqE-unsplash.jpg";
 import "../styles/Home.css";
 // configure new banner image
 // insert border in banner image. perhaps ribbons
+// research a lide show for the banner image
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
