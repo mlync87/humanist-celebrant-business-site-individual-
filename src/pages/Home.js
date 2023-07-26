@@ -6,6 +6,7 @@ import "../styles/Home.css";
 // insert border in banner image. perhaps ribbons
 // research a lide show for the banner image
 // add responsiveness to button on banner image
+// condense page so not scrolling req to see social media icons
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
