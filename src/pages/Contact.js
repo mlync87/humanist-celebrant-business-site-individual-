@@ -2,6 +2,7 @@ import React from "react";
 import ContactLeft from "../assets/contactImage.jpg";
 import "../styles/Contact.css";
 // change images import
+// fix source code to display text box
 
 function Contact() {
   return (
