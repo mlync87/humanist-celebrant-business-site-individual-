@@ -5,6 +5,7 @@ import "../styles/Home.css";
 // configure new banner image
 // insert border in banner image. perhaps ribbons
 // research a lide show for the banner image
+// add responsiveness to button on banner image
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
