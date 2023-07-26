@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import BannerImage from "../assets/foto-pettine-IfjHaIoAoqE-unsplash.jpg";
 import "../styles/Home.css";
 // configure new banner image
+// insert border in banner image. perhaps ribbons
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
