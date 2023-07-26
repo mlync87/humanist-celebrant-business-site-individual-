@@ -8,6 +8,7 @@ import "../styles/Home.css";
 // add responsiveness to button on banner image
 // condense page so not scrolling req to see social media icons
 // add animation for when page initially loads
+//
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
