@@ -3,6 +3,7 @@ import ContactLeft from "../assets/contactImage.jpg";
 import "../styles/Contact.css";
 // change images import
 // fix source code to display text box
+// construck backend using previous project as ource
 
 function Contact() {
   return (
