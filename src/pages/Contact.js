@@ -1,16 +1,13 @@
 import React from "react";
-import ContactLeft from "../assets/contactImage.jpg";
+import MenuLeft from "../assets/contactImage.jpg";
 import "../styles/Contact.css";
-// change images import
-// fix source code to display text box
-// construck backend using previous project as ource
 
 function Contact() {
   return (
     <div className="contact">
       <div
         className="leftSide"
-        style={{ backgroundImage: `url(${ContactLeft})` }}
+        style={{ backgroundImage: `url(${MenuLeft})` }}
       ></div>
       <div className="rightSide">
         <h1> Contact Us</h1>
@@ -35,9 +32,3 @@ function Contact() {
 }
 
 export default Contact;
-
-// possible solutions to page issues
-// renaming all tags
-// re typing all source code
-// alternate docs
-// construct back end for email requirements
