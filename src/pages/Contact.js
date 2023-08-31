@@ -2,6 +2,9 @@ import React from "react";
 import MenuLeft from "../assets/contactImage.jpg";
 import "../styles/Contact.css";
 
+// recreate form submission page using html and use javascript to
+// test email sending.
+
 function Contact() {
   return (
     <div className="contact">
