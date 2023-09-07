@@ -4,6 +4,7 @@ import "../styles/Contact.css";
 
 // recreate form submission page using html and use javascript to
 // test email sending.
+// conmsttruct replica of website using html and css
 
 function Contact() {
   return (
