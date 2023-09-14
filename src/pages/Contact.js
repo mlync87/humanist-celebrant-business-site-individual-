@@ -6,6 +6,7 @@ import "../styles/Contact.css";
 // test email sending.
 // conmsttruct replica of website using html and css
 // finish reviewing semantic html on mimo
+// reconstruct site and implement backend
 
 function Contact() {
   return (
