@@ -4,11 +4,7 @@ import "../styles/Contact.css";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
-// recreate form submission page using html and use javascript to
-// test email sending.
-// conmsttruct replica of website using html and css
-// finish reviewing semantic html on mimo
-// reconstruct site and implement backend
+// use email.js to test frontend only emails
 
 function Contact() {
   const form = useRef();
@@ -17,10 +13,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "service_z4yn4iy",
+        "template_mpns7tl",
         form.current,
-        "YOUR_PUBLIC_KEY"
+        "-KnsIQoVxZMK7XFkL"
       )
       .then(
         (result) => {
