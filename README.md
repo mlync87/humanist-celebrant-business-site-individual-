@@ -1,6 +1,6 @@
 # A new website with less animations and better image banners.
 
-This is a continuation on my celebrant website. There are fewer animations and transitions than previous designs. The main tools for this are HTML, CSS, and javascript. 
+This is a continuation on my humanist celebrant website. There are fewer animations and transitions than previous designs. The main tools for this are HTML, CSS, and javascript. 
 I have decided to remove previously constructed backend. Instead I've used emailJS to handle email enquiries from users. (query security settings)
 I am using Hostinger to deploy this and other websites i have constructed. 
 **REMINDER==Free trial for this ends soon.**
