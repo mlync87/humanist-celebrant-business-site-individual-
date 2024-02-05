@@ -5,5 +5,5 @@ I've decided to remove the previously constructed backend. Instead I've used ema
 Using email.js does not have the depth of security I wish to have, as i am merely using this for a demo model for the client.
 I will be using Hostinger to deploy this and other websites i have constructed. 
 **REMINDER= =Free trial for this ends soon.**
-I have attached a page containing some of the tiles the user will use to select services. I will be updating these as more services are offered
+I have attached a page containing some of the tiles the user will use to select services. I will be updating these as more services are offered.
 ![image](https://github.com/mlync87/humanist-celebrant-business-site-individual-/assets/112760708/d4c92ecb-4026-4b28-adfa-ef051cc7c49c)
